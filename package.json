@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Muhammad Hunain",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/Muhammad-Hunain/NODE-JS.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-Hunain/NODE-JS.git"
+  },
+  "keywords": [
+    "done"
+  ],
+  "author": "HUnain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammad-Hunain/NODE-JS/issues"
+  },
+  "homepage": "https://github.com/Muhammad-Hunain/NODE-JS#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0"
+  }
+}
