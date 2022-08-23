@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "that about project",
+  "main": "app.js",
+  "scripts": {
+    "test": "RUN"
+  },
+  "keywords": [
+    "hun",
+    "huna"
+  ],
+  "author": "HUNAIN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
