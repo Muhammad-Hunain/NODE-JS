@@ -1,0 +1,22 @@
+{
+  "name": "apply_middleware",
+  "version": "1.0.0",
+  "description": "NODEJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "RUN"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Nothing"
+  },
+  "keywords": [
+    "HUNAIN"
+  ],
+  "author": "HUNAIN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
